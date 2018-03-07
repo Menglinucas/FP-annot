@@ -1,5 +1,6 @@
-# Simple image processer
-====================================================
+Simple image processer  
+====================================================  
+
 ### C++ files:  
 > **stdafx.h**  
 > targetver.h  
