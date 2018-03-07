@@ -11,6 +11,7 @@ Simple image processer
 ----------------------------------------------------
 ### Setup file:  
 > setup.exe  
+----------------------------------------------------
 ### Introduction:  
 #### You can quit by input "exit" at 1-2 or pressing "esc" in 3-7.  
 #### Process the next image by pressing "enter".  
