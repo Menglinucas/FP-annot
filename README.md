@@ -42,8 +42,8 @@ Simple image processer
 
 #### 7. Filling poly:  
 > press "5"  
-> press "space" if selected the appropriate frame
-> press "enter" if process the next image
+> press "space" if selected the appropriate frame  
+> press "enter" if process the next image  
 <div align = left><img width='400' height='400' src='https://github.com/Menglinucas/FP-annot/blob/master/fp2_annot.jpg'></div>
   
 -----------------------------------------------------
