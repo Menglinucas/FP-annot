@@ -24,26 +24,26 @@ Simple image processer
 <div align = left><img width='400' height='400' src='https://github.com/Menglinucas/FP-annot/blob/master/image.PNG'></div>
 
 #### 3. Extracting ROI:  
-> press "1"  
-> press "space" if selected the appropriate frame  
+> press "**1**"  
+> press "**space**" if selected the appropriate frame  
 <div align = left><img width='200' height='380' src='https://github.com/Menglinucas/FP-annot/blob/master/extracting ROI.PNG'></div>
 
 #### 4. Erasing background:  
-> press "2"  
+> press "**2**"  
 <div align = left><img width='200' height='380' src='https://github.com/Menglinucas/FP-annot/blob/master/erasing bdg.PNG'></div>
 
 #### 5. Erasing anywhere:  
-> press "3"  
+> press "**3**"  
 <div align = left><img width='200' height='380' src='https://github.com/Menglinucas/FP-annot/blob/master/eraing any.PNG'></div>
 
 #### 6. Jointing anywhere:  
-> press "4"  
+> press "**4**"  
 <div align = left><img width='200' height='380' src='https://github.com/Menglinucas/FP-annot/blob/master/joint.PNG'></div>
 
 #### 7. Filling poly:  
-> press "5"  
-> press "space" if selected the appropriate frame  
-> press "enter" if process the next image  
+> press "**5**"  
+> press "**space**" if selected the appropriate frame  
+> press "**enter**" if process the next image  
 <div align = left><img width='400' height='400' src='https://github.com/Menglinucas/FP-annot/blob/master/fp2_annot.jpg'></div>
   
 -----------------------------------------------------
